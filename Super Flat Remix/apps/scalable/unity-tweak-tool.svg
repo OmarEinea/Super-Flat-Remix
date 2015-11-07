@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="580"
    height="580"
    sodipodi:docname="unity-tweak-tool.svg">
@@ -43,21 +43,16 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.57543862"
-     inkscape:cx="276.19582"
-     inkscape:cy="97.106817"
-     inkscape:window-x="15"
-     inkscape:window-y="39"
+     inkscape:cx="-115.99049"
+     inkscape:cy="97.188563"
+     inkscape:window-x="578"
+     inkscape:window-y="137"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="0,1"
-       position="299.83051,533.30509"
-       id="guide3770" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <rect
-     style="fill:#fbf2f2;stroke:#1dcff5;stroke-width:28.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+     style="fill:#fbf2f2;stroke:#43505c;stroke-width:28.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
      id="rect2997"
      width="480.62149"
      height="491.79877"
