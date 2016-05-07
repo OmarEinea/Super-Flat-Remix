@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r14055 custom"
+   inkscape:version="0.91 r"
    width="512"
    height="512"
-   sodipodi:docname="utilities-file-archiver.svg"
+   sodipodi:docname="7zip.svg"
    viewBox="0 0 512 512">
   <metadata
      id="metadata8">
@@ -50,19 +50,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="317.09048"
-     inkscape:cy="256.03902"
+     inkscape:zoom="2.6074562"
+     inkscape:cx="321.87032"
+     inkscape:cy="325.41394"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true" />
   <path
      style="opacity:1;fill:#51c3ad;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 103.65791,31.374316 C 77.519519,31.406642 55.55062,47.803975 50.164065,67.905009 l -3.313665,12.365622 0,334.032499 0,11.6171 c 0,20.8603 21.043742,37.65348 47.182156,37.65348 l 323.934884,0 c 26.13842,0 47.18216,-16.79318 47.18216,-37.65348 l 0,-11.6171 0,-334.032499 -4.41824,-15.359677 C 454.98047,44.918402 432.42917,30.967732 406.29076,31.000056 Z"
+     d="m 103.65791,31.374316 c -26.138391,0.03233 -48.10729,16.429659 -53.493845,36.530693 0,0 -3.313665,10.175018 -3.313665,18.621719 l 0,327.776402 0,11.6171 c 0,20.8603 21.043742,37.65348 47.182156,37.65348 l 323.934884,0 c 26.13842,0 47.18216,-16.79318 47.18216,-37.65348 l 0,-11.6171 0,-328.223307 c 0,-6.714946 -2.9255,-15.597896 -4.41824,-21.168869 -5.38428,-20.094389 -28.30219,-33.943222 -54.4406,-33.910898 z"
      id="rect5096-4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ssccssssccsss" />
@@ -71,18 +74,14 @@
      style="opacity:1;fill:#098970;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m 94.032556,48.426344 c -26.138416,0 -47.182156,16.79317 -47.182156,37.653479 l 0,11.617087 0,334.0325 0,11.61711 C 46.8504,464.20683 67.89414,481 94.032556,481 l 323.934884,0 c 26.13842,0 47.18216,-16.79317 47.18216,-37.65348 l 0,-11.61711 0,-334.0325 0,-11.617087 c 0,-20.860309 -21.04374,-37.653479 -47.18216,-37.653479 l -323.934884,0 z"
      id="rect5096-4-7" />
-  <rect
+  <path
      style="opacity:1;fill:#1ba389;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 94.032198,48.425842 323.936152,0 c 26.13841,0 47.18125,16.793676 47.18125,37.653981 l 0,345.649477 c 0,20.8603 -21.04284,37.65398 -47.18125,37.65398 l -323.936152,0 c -26.138411,0 -47.181247,-16.79368 -47.181247,-37.65398 l 0,-345.649477 c 0,-20.860305 21.042836,-37.653981 47.181247,-37.653981 z"
      id="rect5096"
-     width="418.29865"
-     height="420.95743"
-     x="46.850681"
-     y="49.587608"
-     ry="37.65398"
-     rx="47.181248" />
+     inkscape:connector-curvature="0" />
   <path
      style="fill:#000000;fill-opacity:0.19607843;fill-rule:evenodd;stroke:none;stroke-width:1.09421444px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 170.17518,51.104639 c 61.266,89.216391 74.89583,170.501651 75.01532,247.042081 l 22.29167,-0.60813 c 4.27245,-134.28376 31.94415,-184.7857 73.84262,-249.04502 z"
+     d="m 169.90399,48.426344 c 61.266,89.216386 75.16702,173.179946 75.28651,249.720376 l 22.29167,-0.60813 c 4.27245,-134.28376 31.94415,-184.7857 73.84262,-249.04502 z"
      id="path6128"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
